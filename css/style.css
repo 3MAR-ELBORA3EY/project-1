@@ -12,13 +12,18 @@ section {
     width: 50em;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 5em;
+    margin-bottom: 20em;
 }
 
 /* end-all */
 
 
 /* start-header */
+#up {
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+}
 
 header {
     width: 50em;
@@ -63,7 +68,7 @@ header nav a:hover {
     justify-content: space-between;
     align-items: center;
     height: 21.875em;
-    margin-bottom: 10em;
+    margin-bottom: 20em;
 }
 
 .frist-section .fs-image {
@@ -751,7 +756,7 @@ footer i {
 
     .frist-section {
         width: 100%;
-        margin-bottom: 10em;
+        margin-bottom: 25em;
     }
 
     .sec-section .sec-section-images {
